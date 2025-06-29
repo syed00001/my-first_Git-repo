@@ -144,3 +144,15 @@ font-size: .85rem;
 .hero-msg a {
     color: #007185;
 }
+/* shop-section */
+.shop-section{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgba(250, 184, 98, 0.2);
+}
+.box {
+    border: 2px solid black;
+    height: 400px;
+    width:22%;
+    background-color: #cccccc;
+}
