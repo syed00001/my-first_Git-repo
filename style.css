@@ -23,10 +23,11 @@
     height: 50px;
 }
 .border {
-    border:2px solid transparent
+    border:1.5px solid transparent;
+    height: 45px;
 }
 .border:hover {
-    border:2px solid #fff;
+    border:1.5px solid #fff;
 }
 /* box2 */
 .add-one{
@@ -78,4 +79,23 @@
     border-top-right-radius: 4px;
     border-bottom-right-radius: 4px;
     color: #0f1111;
+}
+/* box-4,5 */
+span { 
+    font-size: .75rem;
+    font-weight: 700;
+
+}
+.nav-signin {
+    font-size: .8rem;
+    font-weight: 700;
+
+}
+/* box-6 */
+.nav-cart i {
+font-size:35px;
+}
+.nav-cart {
+    font-size: .85rem;
+    font-weight: 750;
 }
