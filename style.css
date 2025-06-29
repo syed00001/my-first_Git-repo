@@ -120,3 +120,27 @@ font-size: .85rem;
     font-size: 9rems;
     font-weight: 700;
 }
+/* hero section */
+.hero-section { 
+    background-image: url('hero_img.jpg');
+    background-size:cover;
+    height: 280px;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+}
+.hero-msg {
+    background-color: #fff;
+    color: #0f1111;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: .85rem;
+    width: 70%;
+  
+    
+}
+.hero-msg a {
+    color: #007185;
+}
